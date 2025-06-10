@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @bdbaidya  
+- 👀 I’m interested in machine learning, surgical robotics, computer vision, and scalable AI infrastructure  
+- 🌱 I’m currently learning efficient model optimization for video-based deep learning and self-supervised learning techniques like VideoMAE  
+- 💞️ I’m looking to collaborate on open-source ML frameworks, medical imaging research, and AI-powered backend systems  
+- 📫 How to reach me: bddebashis@gmail.com | [LinkedIn](https://www.linkedin.com/in/bddebashis/)  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I’ve developed VR simulations, built AI pipelines for surgical robotics, and enjoy boating and farming in my spare time  
