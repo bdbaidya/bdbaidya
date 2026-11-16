@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bdbaidya  
+- 👋 Hi, I’m Debashis B.  
 - 👀 I’m interested in machine learning, surgical robotics, computer vision, and scalable AI infrastructure  
 - 🌱 I’m currently learning efficient model optimization for video-based deep learning and self-supervised learning techniques like VideoMAE  
 - 💞️ I’m looking to collaborate on open-source ML frameworks, medical imaging research, and AI-powered backend systems  
